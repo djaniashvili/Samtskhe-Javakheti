@@ -1,0 +1,2 @@
+# Samtskhe-Javakheti
+პროექტის რესურსები
